@@ -1,0 +1,56 @@
+{
+  "search_metadata": {
+    "id": "655b57823c3fb235166b9a9b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/836f3edd408365db/655b57823c3fb235166b9a9b.json",
+    "created_at": "2023-11-20 12:56:34 UTC",
+    "processed_at": "2023-11-20 12:56:34 UTC",
+    "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Damiano+Spina&view_op=search_authors&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/836f3edd408365db/655b57823c3fb235166b9a9b.html",
+    "total_time_taken": 2.33
+  },
+  "search_parameters": {
+    "engine": "google_scholar_profiles",
+    "mauthors": "Damiano Spina",
+    "hl": "en"
+  },
+  "profiles": [
+    {
+      "name": "Damiano Spina",
+      "link": "https://scholar.google.com/citations?hl=en&user=sLzYrNYAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=sLzYrNYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "sLzYrNYAAAAJ",
+      "affiliations": "School of Computing Technologies, RMIT University",
+      "email": "Verified email at rmit.edu.au",
+      "cited_by": 2481,
+      "interests": [
+        {
+          "title": "Information Retrieval",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+        },
+        {
+          "title": "Text Analytics",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atext_analytics",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:text_analytics"
+        },
+        {
+          "title": "Data Science",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:data_science"
+        },
+        {
+          "title": "Evaluation",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevaluation",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:evaluation"
+        },
+        {
+          "title": "Human-AI Fact-checking",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_ai_fact_checking",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_ai_fact_checking"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sLzYrNYAAAAJ&citpid=8"
+    }
+  ]
+}

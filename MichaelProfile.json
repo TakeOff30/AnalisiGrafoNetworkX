@@ -1,0 +1,41 @@
+{
+  "search_metadata": {
+    "id": "655b577a3944b06faef1d932",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ba79191f2565d37a/655b577a3944b06faef1d932.json",
+    "created_at": "2023-11-20 12:56:26 UTC",
+    "processed_at": "2023-11-20 12:56:26 UTC",
+    "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Michael+Soprano&view_op=search_authors&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/ba79191f2565d37a/655b577a3944b06faef1d932.html",
+    "total_time_taken": 0.93
+  },
+  "search_parameters": {
+    "engine": "google_scholar_profiles",
+    "mauthors": "Michael Soprano",
+    "hl": "en"
+  },
+  "profiles": [
+    {
+      "name": "Michael Soprano",
+      "link": "https://scholar.google.com/citations?hl=en&user=ocK0qRUAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ocK0qRUAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "ocK0qRUAAAAJ",
+      "affiliations": "Postdoctoral Research Fellow at the University of Udine",
+      "email": "Verified email at uniud.it",
+      "cited_by": 208,
+      "interests": [
+        {
+          "title": "Computer Science",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_science",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:computer_science"
+        },
+        {
+          "title": "Crowdsourcing",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowdsourcing",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:crowdsourcing"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ocK0qRUAAAAJ&citpid=2"
+    }
+  ]
+}

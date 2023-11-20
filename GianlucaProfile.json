@@ -1,0 +1,51 @@
+{
+  "search_metadata": {
+    "id": "655b5785a1b423f30e476010",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d00ce8e10abd111d/655b5785a1b423f30e476010.json",
+    "created_at": "2023-11-20 12:56:37 UTC",
+    "processed_at": "2023-11-20 12:56:37 UTC",
+    "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Gianluca+Demartini&view_op=search_authors&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/d00ce8e10abd111d/655b5785a1b423f30e476010.html",
+    "total_time_taken": 1.96
+  },
+  "search_parameters": {
+    "engine": "google_scholar_profiles",
+    "mauthors": "Gianluca Demartini",
+    "hl": "en"
+  },
+  "profiles": [
+    {
+      "name": "Gianluca Demartini",
+      "link": "https://scholar.google.com/citations?hl=en&user=PCAiILsAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=PCAiILsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "PCAiILsAAAAJ",
+      "affiliations": "Associate Professor at the University of Queensland",
+      "email": "Verified email at cs.berkeley.edu",
+      "cited_by": 5342,
+      "interests": [
+        {
+          "title": "Information Retrieval",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+        },
+        {
+          "title": "Semantic Web",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_web",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:semantic_web"
+        },
+        {
+          "title": "Human Computation",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computation",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:human_computation"
+        },
+        {
+          "title": "Crowdsourcing",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowdsourcing",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:crowdsourcing"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PCAiILsAAAAJ&citpid=6"
+    }
+  ]
+}

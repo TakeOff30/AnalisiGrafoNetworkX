@@ -1,0 +1,46 @@
+{
+  "search_metadata": {
+    "id": "655b577b47ccf1c9a30dbf5b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2ad92cb6a051f2d5/655b577b47ccf1c9a30dbf5b.json",
+    "created_at": "2023-11-20 12:56:27 UTC",
+    "processed_at": "2023-11-20 12:56:27 UTC",
+    "google_scholar_profiles_url": "https://scholar.google.com/citations?mauthors=Kevin+Roitero&view_op=search_authors&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/2ad92cb6a051f2d5/655b577b47ccf1c9a30dbf5b.html",
+    "total_time_taken": 5.56
+  },
+  "search_parameters": {
+    "engine": "google_scholar_profiles",
+    "mauthors": "Kevin Roitero",
+    "hl": "en"
+  },
+  "profiles": [
+    {
+      "name": "Kevin Roitero",
+      "link": "https://scholar.google.com/citations?hl=en&user=1xd52jMAAAAJ",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=1xd52jMAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "1xd52jMAAAAJ",
+      "affiliations": "University of Udine",
+      "email": "Verified email at uniud.it",
+      "cited_by": 688,
+      "interests": [
+        {
+          "title": "Artificial Intelligence",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:artificial_intelligence"
+        },
+        {
+          "title": "Crowdsourcing and Human Computation",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acrowdsourcing_and_human_computation",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:crowdsourcing_and_human_computation"
+        },
+        {
+          "title": "Information Retrieval",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval",
+          "link": "https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label:information_retrieval"
+        }
+      ],
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1xd52jMAAAAJ&citpid=6"
+    }
+  ]
+}
