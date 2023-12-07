@@ -1,3 +1,3 @@
 ,cluster_coefficient,graph_center,radius,average_distance,transitivity,omega_coefficients,sigma_coefficients
-author_graph,0.16788801854998694,"['Damiano Spina', 'Gianluca Demartini', 'Eddy Maddalena']",2,2.6470175438596493,0.15254237288135594,-0.011296331590049724,0.9416393521642729
-extended_coauthorship_graph,0.32147504625449863,"['Damiano Spina', 'Gianluca Demartini', 'Eddy Maddalena']",2,2.434035087719298,0.1745152354570637,0.24450053378564873,0.9333824172418383
+author_graph,0.16788801854998694,"['Damiano Spina', 'Gianluca Demartini', 'Eddy Maddalena']",2,2.6470175438596493,0.15254237288135594,-0.011293743372216447,0.8927681574685438
+extended_coauthorship_graph,0.32147504625449863,['Gianluca Demartini'],2,2.434035087719298,0.1745152354570637,0.2557593847501284,0.9279033036458563
